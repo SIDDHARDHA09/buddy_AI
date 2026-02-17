@@ -1,0 +1,7 @@
+{
+  "name": "Buddy - Your AI Companion",
+  "description": "A fully hands-free AI voice assistant with wake-word activation, friendly real-time conversational intelligence, and visual feedback.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
